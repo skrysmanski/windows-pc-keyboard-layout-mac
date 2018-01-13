@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-01-13 at 17:50 (CET)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-01-13 at 17:52 (CET)-->
 <keyboard group="0" id="16283" name="PC-Windows Deutsch" maxout="1">
 	<layouts>
 		<layout first="0" last="4" mapSet="fb0" modifiers="84"/>
@@ -470,7 +470,7 @@
 			<key code="29" output="}"/>
 			<key code="30" output="~"/>
 			<key code="31" output=""/>
-			<key code="32" action="3"/>
+			<key code="32" output=""/>
 			<key code="33" output=""/>
 			<key code="34" output=""/>
 			<key code="35" output="π"/>
