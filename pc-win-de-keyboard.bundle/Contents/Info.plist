@@ -8,10 +8,10 @@
 	<string></string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_German copy</key>
+	<key>KLInfo_PC-Windows Deutsch</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..germancopy</string>
+		<string>org.sil.ukelele.keyboardlayout..pc-windowsdeutsch</string>
 		<key>TISIntendedLanguage</key>
 		<string>de</string>
 	</dict>
