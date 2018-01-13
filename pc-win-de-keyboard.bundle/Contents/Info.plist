@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.pc-win-de-keyboard</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>pc-win-de-keyboard</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_PC-Windows Deutsch</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..pc-windowsdeutsch</string>
+		<string>org.sil.ukelele.keyboardlayout.pc-win-de-keyboard.pc-windowsdeutsch</string>
 		<key>TISIntendedLanguage</key>
 		<string>de</string>
 	</dict>

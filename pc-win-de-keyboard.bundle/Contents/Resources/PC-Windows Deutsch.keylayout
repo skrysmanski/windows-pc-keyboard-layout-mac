@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-01-13 at 17:12 (CET)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-01-13 at 17:40 (CET)-->
 <keyboard group="0" id="16283" name="PC-Windows Deutsch" maxout="1">
 	<layouts>
 		<layout first="0" last="4" mapSet="fb0" modifiers="84"/>
@@ -448,7 +448,7 @@
 			<key code="7" output="≈"/>
 			<key code="8" output="ç"/>
 			<key code="9" output="√"/>
-			<key code="10" output="„"/>
+			<key code="10" output=""/>
 			<key code="11" output="∫"/>
 			<key code="12" output="«"/>
 			<key code="13" output="∑"/>
@@ -456,18 +456,18 @@
 			<key code="15" output="®"/>
 			<key code="16" output="Ω"/>
 			<key code="17" output="†"/>
-			<key code="18" output="¡"/>
-			<key code="19" output="“"/>
-			<key code="20" output="¶"/>
-			<key code="21" output="¢"/>
-			<key code="22" output="]"/>
-			<key code="23" output="["/>
-			<key code="24" output="&#x0027;"/>
-			<key code="25" output="}"/>
-			<key code="26" output="|"/>
-			<key code="27" output="¿"/>
-			<key code="28" output="{"/>
-			<key code="29" output="≠"/>
+			<key code="18" output=""/>
+			<key code="19" output=""/>
+			<key code="20" output=""/>
+			<key code="21" output=""/>
+			<key code="22" output=""/>
+			<key code="23" output=""/>
+			<key code="24" output=""/>
+			<key code="25" output="]"/>
+			<key code="26" output="{"/>
+			<key code="27" output="\"/>
+			<key code="28" output="["/>
+			<key code="29" output="}"/>
 			<key code="30" output="±"/>
 			<key code="31" output="ø"/>
 			<key code="32" action="3"/>
