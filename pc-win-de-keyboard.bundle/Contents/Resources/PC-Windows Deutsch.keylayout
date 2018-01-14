@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-01-13 at 18:26 (CET)-->
-<keyboard group="0" id="16283" name="PC-Windows Deutsch" maxout="1">
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-01-14 at 09:51 (CET)-->
+<keyboard group="126" id="-13555" name="PC-Windows Deutsch" maxout="1">
 	<layouts>
 		<layout first="0" last="4" mapSet="fb0" modifiers="84"/>
 		<layout first="5" last="5" mapSet="18c" modifiers="84"/>
