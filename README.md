@@ -24,3 +24,8 @@ Das Layout wird die Systemsteuerung -> Tastatur -> Eingabequellen aktiviert.
 Unten auf das `+` klicken und dann das Layout `PC-Windows Deutsch` in der Sprache `Deutsch` auswählen.
 
 Das bisherigen Layout kann man dann entfernen (um versehentliches Zurückwechseln zum bisherigen Layout zu verhindern.) Eventuell muss der Rechner neugestartet werden, damit das geht.
+
+## Bearbeiten des Layouts
+Das Layout bearbeitet man am besten mit dem Tool [Ukulele](http://scripts.sil.org/ukelele).
+
+Das `.dmg`-Image zum Verteilen erstellt man in Ukulele über das Menü: File -> Install -> Export Installer Disk Image...
