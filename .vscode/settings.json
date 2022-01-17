@@ -1,6 +1,7 @@
 {
 	"cSpell.language": "de,en",
 	"cSpell.words": [
+		"clonen",
 		"editorconfig",
 		"markdownlint"
 	],
@@ -10,6 +11,8 @@
 		"MD014": false,
 		// No trailing punctuation in heading
 		"MD026": false,
+		// Don't allow HTML
+		"MD033": false,
 		// Emphasis used instead of heading
 		"MD036": false,
 		// Fenced code blocks should have a language specified
