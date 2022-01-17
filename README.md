@@ -32,7 +32,20 @@ Dann die Sprache **Deutsch** und hier das Layout **PC-Windows Deutsch** auswähl
 
 ![Tastaturlayout auswählen](images/add-keyboard-layout2.png)
 
-Das bisherigen Layout kann man dann per `-` Knopf entfernen (um versehentliches Zurückwechseln zum bisherigen Layout zu verhindern.) Eventuell muss der Mac neugestartet werden, damit das geht.
+Das bisherigen Layout kann man dann per `-` Knopf entfernen (um versehentliches Zurückwechseln zum bisherigen Layout zu verhindern.) Siehe aber auch den nächsten Abschnitt.
+
+## Tastaturlayout im Anmeldebildschirm
+
+Leider können im Anmelde-/Sperrbildschirm keine eigenen Tastaturlayouts verwendet werden. (Hier funktionieren nur die, die mit macOS ausgeliefert werden.)
+
+Sofern als [Systemsprache](https://support.apple.com/de-de/HT202036) Deutsch verwendet wird, wird im Anmeldebildschirm einfach das Tastaturlayout "Deutsch" verwendet. (Ist auf dem Mac nur ein Benutzer vorhanden, entspricht die Systemsprache immer automatisch der Benutzersprache.)
+
+Ist die Systemsprache eine andere (z.B. Englisch), dann gilt:
+
+* Ist beim Benutzer das Tastaturlayout "Deutsch" in den Eingabequellen hinterlegt (muss *nicht* aktiv sein), wird "Deutsch" als Tastaturlayout im Anmeldebildschirm verwendet.
+* Ansonsten wird ein englisches Tastaturlayout (US oder Britisch) verwendet.
+
+Das bedeutet: Ist die Systemsprache Englisch, darf das von macOS mitgelieferte Tastaturlayout "Deutsch" *nicht* entfernt werden!
 
 ## Bearbeiten des Layouts
 
