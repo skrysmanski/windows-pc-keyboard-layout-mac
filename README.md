@@ -28,7 +28,7 @@ Das Layout wird über die **Systemeinstellungen** -> **Tastatur** -> **Eingabequ
 
 ![Tastaturlayout hinzufügen](images/add-keyboard-layout1.png)
 
-Dann die Sprache **Deutsch** und hier das Layout **PC-Windows Deutsch** auswählen.
+Dann die Sprache **Deutsch** und hier das Layout **Deutsch - PC** auswählen.
 
 ![Tastaturlayout auswählen](images/add-keyboard-layout2.png)
 

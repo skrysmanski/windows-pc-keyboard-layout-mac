@@ -8,12 +8,12 @@
 	<string>pc-win-de-keyboard</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_PC-Windows Deutsch</key>
+	<key>KLInfo_German - PC</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.pc-win-de-keyboard.pc-windowsdeutsch</string>
+		<string>org.sil.ukelele.keyboardlayout.pc-win-de-keyboard.german-pc</string>
 		<key>TISIntendedLanguage</key>
 		<string>de</string>
 	</dict>
