@@ -1,0 +1,20 @@
+{
+	"cSpell.language": "de,en",
+	"cSpell.words": [
+		"editorconfig",
+		"markdownlint"
+	],
+
+	"markdownlint.config": {
+		// Dollar signs used before commands without showing output
+		"MD014": false,
+		// No trailing punctuation in heading
+		"MD026": false,
+		// Emphasis used instead of heading
+		"MD036": false,
+		// Fenced code blocks should have a language specified
+		"MD040": false,
+		// Inconsistent code blocks are sometimes nicer to write
+		"MD046": false,
+	},
+}

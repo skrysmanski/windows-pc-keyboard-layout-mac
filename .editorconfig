@@ -1,0 +1,57 @@
+#################################################################################
+#
+# Editor Configurations
+#
+# For details, see: https://editorconfig.org/#file-format-details
+#
+#################################################################################
+
+root = true
+
+#
+# All files
+#
+[*]
+# For reasoning about encoding, see: https://github.com/skrysmanski/base/blob/master/docs/utf8-and-bom.md
+charset = utf-8
+
+end_of_line = lf
+
+indent_style = space
+indent_size = 4
+
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+
+#
+# Markdown
+#
+[*.md]
+charset = utf-8-bom
+
+# For explanation why spaces are used for Markdown, see: https://github.com/skrysmanski/base/blob/master/docs/markdown-indentation.md
+indent_style = space
+indent_size = 4
+
+
+#
+# .json files
+#
+[*.json]
+indent_style = tab
+indent_size = 4
+
+
+#
+# .yaml files
+#
+[*.{yml,yaml}]
+indent_size = 2
+
+
+#
+# Windows batch files
+#
+[*.{bat,cmd}]
+end_of_line = crlf

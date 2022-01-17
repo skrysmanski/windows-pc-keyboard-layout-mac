@@ -1,2 +1,26 @@
-pc-win-de-keyboard.dmg
+#
+# This file list paths that are ignored by git.
+#
+# Tutorial: https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+#
+# GitIgnore files for various project types: https://github.com/github/gitignore
+#
+
+
+#
+# Common ignores
+#
+
+# Log files
+*.log
+# Temporary files
+*.tmp
+# User files
+# See: https://en.wikipedia.org/wiki/.DS_Store
 .DS_Store
+
+
+#
+# Repository custom ignores
+#
+pc-win-de-keyboard.dmg
