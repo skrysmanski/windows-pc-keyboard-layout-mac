@@ -20,7 +20,7 @@ Das Zeichen <kbd>~</kbd> ist kein Dead-Key.
 
 Das `.dmg`-Image herunterladen (siehe Releases) und Anweisungen folgen.
 
-Alternativ: Dieses Repository clonen und das Bundle `pc-win-de-keyboard.bundle` nach `/Library/Keyboard Layouts` kopieren.
+Alternativ: Dieses Repository clonen und das Bundle `pc-win-de-keyboard.bundle` nach `/Library/Keyboard Layouts` kopieren. (Tipp: Im Finder `Cmd+Shift+G`.)
 
 ## Aktivieren
 
