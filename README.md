@@ -36,6 +36,6 @@ Das bisherigen Layout kann man dann per `-` Knopf entfernen (um versehentliches 
 
 ## Bearbeiten des Layouts
 
-Das Layout bearbeitet man am besten mit dem Tool [Ukulele](http://scripts.sil.org/ukelele).
+Das Layout bearbeitet man am besten mit dem Tool [Ukulele](https://software.sil.org/ukelele/).
 
 Das `.dmg`-Image zum Verteilen erstellt man in Ukulele über das Menü: File -> Install -> Export Installer Disk Image...
