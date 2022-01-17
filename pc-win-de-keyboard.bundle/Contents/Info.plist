@@ -10,6 +10,8 @@
 	<string></string>
 	<key>KLInfo_PC-Windows Deutsch</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.pc-win-de-keyboard.pc-windowsdeutsch</string>
 		<key>TISIntendedLanguage</key>
